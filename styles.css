@@ -25,7 +25,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c803d', end
 }
 h1 {
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 32px;
 }
 h2 {
 	font-size: 18px;
@@ -208,6 +208,11 @@ ul#topnav li a:hover {
 	text-align: left;
 	padding: 20px;
 	margin-right: 245px;
+}
+
+#contentSub {
+	text-align: left;
+	padding: 20px;
 }
 
 #content h1 {
